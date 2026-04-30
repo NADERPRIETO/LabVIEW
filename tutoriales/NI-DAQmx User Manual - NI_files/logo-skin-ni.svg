@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="98px" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A0892ABC-B824-4318-9FB4-F7F4990ED672</title>
+    <g id="UI-KIt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Kit" transform="translate(-100.000000, -143.000000)">
+            <g id="Logo_NI" transform="translate(100.000000, 143.000000)">
+                <rect id="Rectangle" fill="#F5F5F5" x="0" y="0" width="98" height="98"></rect>
+                <g id="ni_logo_green" transform="translate(23.000000, 32.000000)" fill="#03B585" fill-rule="nonzero">
+                    <rect id="Rectangle" x="0" y="12" width="12" height="23"></rect>
+                    <path d="M23.5,11.6679887 L23.5,35 L35,35 L35,11.6679887 L35,11.6679887 C34.9978435,5.22639113 29.8510129,0.00437720112 23.5,0 L12,0 L12,11.6719547 L23.5,11.6719547 L23.5,11.6679887 Z" id="Path"></path>
+                    <path d="M40,23.3320113 L40,0 L52,0 L52,23.3320113 L52,23.3320113 L52,35 C45.3728561,34.9956228 40.0022503,29.7736089 40,23.3320113 L40,23.3320113 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
