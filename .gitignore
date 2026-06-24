@@ -1,1 +1,2 @@
 *.txt
+!stored signals/*.txt
